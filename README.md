@@ -24,6 +24,8 @@
     <td align="center"><a href="https://jjjoonngg.github.io"><img src="https://avatars1.githubusercontent.com/u/52276038?v=4" width="100px;" alt=""/><br /><sub><b>Jong Sin Kim</b></sub></a><br /><a href="#projectManagement-JJJoonngg" title="Project Management">📆</a></td>
   </tr>
 </table>
+
+
 #### Reposioty :floppy_disk: - Private 
 
 ---
