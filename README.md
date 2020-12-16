@@ -87,7 +87,7 @@
 
 구글 맵스를 이용하여 현재 위치를 기반으로 하여 경로를 지정하고, 해당 기록에 대한 정보를 저장 하는 기능
 
-<img src ="img/function3-1.png" width ="300"> <img src ="img/function3-2.gif" width ="300">  <img src ="img/function3-3.gif" width ="300">
+<img src ="img/function3-1.gif" width ="300"> <img src ="img/function3-2.gif" width ="300">  <img src ="img/function3-3.gif" width ="300">
 
 
 
