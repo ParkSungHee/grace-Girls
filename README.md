@@ -41,7 +41,7 @@
 
 머신러닝을 통해 산의 위험도를 측정하여 각 산별로 위험지수를 보여주는 기능
 
-<img src ="img/function1.gif" width = "300">
+<img src ="img/function1.gif" width = "250">
 
 - :sun_behind_large_cloud: 기상 관측 정보  - (출처 : 기상청 기상자료 개방 포털)
 - :world_map: 관측 지점 정보 - (출처 : 기상청 기상자료 개방 포털)
@@ -77,7 +77,7 @@
 
 현재 위도와 경도를 받아서 구조요청을 할 수 있는 기능 :sos:
 
-<img src="img/function2-1.gif" width = 300> <img src="img/function2-2.gif" width = "400">
+<img src="img/function2-1.gif" width = 250> <img src="img/function2-2.gif" width = "300">
 
 
 
@@ -87,7 +87,7 @@
 
 구글 맵스를 이용하여 현재 위치를 기반으로 하여 경로를 지정하고, 해당 기록에 대한 정보를 저장 하는 기능
 
-<img src ="img/function3-1.gif" width ="300"> <img src ="img/function3-2.gif" width ="300">  <img src ="img/function3-3.gif" width ="300">
+<img src ="img/function3-1.gif" width ="250"> <img src ="img/function3-2.gif" width ="250"> <img src ="img/function3-3.gif" width ="250">
 
 
 
@@ -97,7 +97,7 @@
 
 [open weather map api](https://openweathermap.org/) 를 이용하여 현재 위치, 날짜를 이용 하여 날씨를 받아올 수 있도록 구현
 
-<img src ="img/function4.gif" width="300">
+<img src ="img/function4.gif" width="250">
 
 ---
 
@@ -105,7 +105,7 @@
 
 - 로그인 기능 및 회원 가입
 
-  <img src ="img/function5-1.gif" width="300"> <img src ="img/function5-2.gif" width="300" height="525">
+  <img src ="img/function5-1.gif" width="250"> <img src ="img/function5-2.gif" width="250" height="435">
 
 
 
