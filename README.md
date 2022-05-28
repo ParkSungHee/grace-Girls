@@ -15,7 +15,6 @@
 ---
 
 ### Contributors :sparkles:
-
 <table>
   <tr>
     <td align="center"><a href="https://github.com/kwonsehee"><img src="https://avatars3.githubusercontent.com/u/48790779?v=4" width="100px;" alt=""/><br /><sub><b>권세희</b></sub></a><br /><a href="https://github.com/Grace-Girls/GCG/commits?author=kwonsehee" title="Code">💻</a></td>
@@ -30,8 +29,13 @@
 
 ---
 
+### Database - ERD
+<img src ="https://user-images.githubusercontent.com/22094204/170823689-4689a292-fffb-4acc-8f00-e5eacdf908ca.png">
 
-
+- Machine Learning
+<img src ="https://user-images.githubusercontent.com/22094204/170823629-6efe93a3-0fa5-477b-af50-2c425983d194.png">
+ 
+---
 
 ### Fucntions :hammer_and_wrench:
 
