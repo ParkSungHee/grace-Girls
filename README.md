@@ -17,9 +17,9 @@
 ### Contributors :sparkles:
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/kwonsehee"><img src="https://avatars3.githubusercontent.com/u/48790779?v=4" width="100px;" alt=""/><br /><sub><b>권세희</b></sub></a><br /><a href="https://github.com/Grace-Girls/GCG/commits?author=kwonsehee" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/HyeRyeongKang"><img src="https://avatars3.githubusercontent.com/u/37579979?v=4" width="100px;" alt=""/><br /><sub><b>HYERYEONG KANG</b></sub></a><br /><a href="https://github.com/Grace-Girls/GCG/commits?author=HyeRyeongKang" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/ParkSungHee"><img src="https://avatars2.githubusercontent.com/u/22094204?v=4" width="100px;" alt=""/><br /><sub><b>ParkSungHee</b></sub></a><br /><a href="https://github.com/Grace-Girls/GCG/commits?author=ParkSungHee" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/kwonsehee"><img src="https://avatars3.githubusercontent.com/u/48790779?v=4" width="100px;" alt=""/><br /><sub><b>권세희</b></sub></a><br /><a href="https://github.com/Grace-Girls/GCG/commits?author=kwonsehee" title="Code">💻 DB</a></td>
+    <td align="center"><a href="https://github.com/HyeRyeongKang"><img src="https://avatars3.githubusercontent.com/u/37579979?v=4" width="100px;" alt=""/><br /><sub><b>HYERYEONG KANG</b></sub></a><br /><a href="https://github.com/Grace-Girls/GCG/commits?author=HyeRyeongKang" title="Code">💻ML</a></td>
+    <td align="center"><a href="https://github.com/ParkSungHee"><img src="https://avatars2.githubusercontent.com/u/22094204?v=4" width="100px;" alt=""/><br /><sub><b>ParkSungHee</b></sub></a><br /><a href="https://github.com/Grace-Girls/GCG/commits?author=ParkSungHee" title="Code">💻안드로이드 개발</a></td>
     <td align="center"><a href="https://jjjoonngg.github.io"><img src="https://avatars1.githubusercontent.com/u/52276038?v=4" width="100px;" alt=""/><br /><sub><b>Jong Sin Kim</b></sub></a><br /><a href="#projectManagement-JJJoonngg" title="Project Management">📆</a></td>
   </tr>
 </table>
