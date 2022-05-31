@@ -25,7 +25,7 @@
 </table>
 
 
-#### Reposioty :floppy_disk: - Private 
+#### Repository :floppy_disk: - Private 
 
 ---
 
